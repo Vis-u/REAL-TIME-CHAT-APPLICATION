@@ -1,9 +1,9 @@
 # REAL-TIME-CHAT-APPLICATION
 COMPANY: CODTECH IT SOLUTIONS
 
-NAME: ANKIT YADAV
+NAME: VISHAL YADAV
 
-INTERN ID: CTIS0916
+INTERN ID: CTIS8148
 
 DOMAIN: FRONTEND WEB DEVELOPMENT
 
@@ -11,7 +11,7 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-DESCRIPTION
+# DESCRIPTION
 *Real-Time WebSocket Chat Application *
 
 This is a modern, responsive real-time chat application frontend built using React.js, the WebSocket API, and Tailwind CSS. The project focuses on creating a production-ready user interface with smooth real-time interactions, efficient message handling, and customizable themes. It demonstrates practical frontend skills required for building real-time applications.
@@ -44,3 +44,20 @@ How It Works
 
 When the application loads, a random username is generated. The client connects to a WebSocket server to send and receive messages in real time. Messages are managed using React state and saved in localStorage. The interface updates instantly without page reloads, and message editing and deletion are restricted to the original sender.
 # OUTPUT
+HOME (LIGHT MODE)
+<img width="993" height="567" alt="Image" src="https://github.com/user-attachments/assets/9f0c9f63-b216-4894-85b7-b9460f2099c7" />
+
+ DARK MODE
+ <img width="1037" height="602" alt="Image" src="https://github.com/user-attachments/assets/aa96ad82-fe57-4b6e-8ef1-27642452fdf8" />
+ 
+CONTACT SECTION
+<img width="1073" height="584" alt="Image" src="https://github.com/user-attachments/assets/374d3ded-b055-453a-aa0b-87deceb9fdd4" />
+
+EDIT MESSAGE
+<img width="1028" height="584" alt="Image" src="https://github.com/user-attachments/assets/5ffaf075-aa5e-40d0-8848-a1a6ca8fe0d9" />
+
+CLEAR CHAT
+<img width="1034" height="541" alt="Image" src="https://github.com/user-attachments/assets/edb8cd89-afe4-48f4-9a89-62078def3e17" />
+
+INITIAL SCREEN
+<img width="1030" height="582" alt="Image" src="https://github.com/user-attachments/assets/cd418352-b0c0-4a7a-b004-b76f4d09904c" />
